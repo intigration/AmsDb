@@ -1,0 +1,6 @@
+CREATE SCHEMA [AmsDbUser]
+    AUTHORIZATION [AmsDbUser];
+
+
+GO
+

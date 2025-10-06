@@ -1,0 +1,6 @@
+CREATE USER [AmsDbUser]
+    WITH DEFAULT_SCHEMA = [AmsDbUser];
+
+
+GO
+
